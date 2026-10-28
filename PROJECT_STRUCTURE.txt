@@ -1,0 +1,10 @@
+Road_Accident_Data_Analysis_System/
+├── app.py                    # Streamlit dashboard and data entry
+├── requirements.txt          # Python dependencies
+├── README.md                 # Setup and run instructions
+├── data/
+│   └── accidents.csv         # Synthetic sample dataset (180 rows)
+├── sql/
+│   └── schema.sql            # Optional MySQL schema and queries
+└── reports/
+    └── project_report.md     # Project report draft
